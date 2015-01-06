@@ -34,6 +34,9 @@ $ motivate
 ### Yosay
 ![Yosay][motivate-yosay]
 
+### Ponysay
+![Ponysay][motivate-ponysay]
+
 ## License
 MIT (c) 2015 Ian Macalinao
 
@@ -41,3 +44,4 @@ MIT (c) 2015 Ian Macalinao
 [motivate-cowsay]: https://raw.githubusercontent.com/simplyianm/motivate/master/img/motivate-cowsay.png
 [motivate-tux]: https://raw.githubusercontent.com/simplyianm/motivate/master/img/motivate-tux.png
 [motivate-yosay]: https://raw.githubusercontent.com/simplyianm/motivate/master/img/motivate-yosay.png
+[motivate-ponysay]: http://puu.sh/e7XBL/feefee01e4.png
